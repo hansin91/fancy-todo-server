@@ -1,5 +1,5 @@
 const { Todo, Location } = require('../models')
-const { Op } = require('Sequelize')
+const { Op } = require('sequelize')
 
 class TodoController {
 
